@@ -5,14 +5,19 @@ Welcome to the Detroit AI Collective! We're a vibrant non-profit hackerspace and
 
 ## What We Do
 At Detroit AI Collective, we believe in learning by doing. Our events are designed to be engaging, informative, and most importantly, fun!
+
 🚀 Hackathons
 Dive into intense coding sessions where ideas come to life. Our hackathons challenge you to push the boundaries of AI technology and create innovative solutions.
+
 🎉 Social Events
 Network and relax with fellow AI enthusiasts. From casual meetups to themed parties, we're all about building connections in the AI community.
+
 🧠 Workshops
 Hands-on learning experiences led by industry experts. Sharpen your skills in machine learning, natural language processing, computer vision, and more.
+
 ⚡ Lightning Talks
 Quick, inspiring presentations on the latest AI trends and breakthroughs. Share your knowledge or learn something new in just a few minutes!
+
 🛠️ Project Showcases
 Demonstrate your latest AI projects and get feedback from peers. It's the perfect opportunity to show off your hard work and inspire others.
 
